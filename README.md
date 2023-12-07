@@ -1,4 +1,4 @@
-# 1-100_PythonCode_Challange
+# 1-100_PythonCode_Challenge
 
 A while back I did a few smaller coding challenges and improved my knowledge drastically. 
 All the concepts I learned helped me understand automation and how it can be used with python and several frames.
