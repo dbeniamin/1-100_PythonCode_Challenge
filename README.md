@@ -6,4 +6,4 @@ Given that, I decided to start a longer and more complex challenge and finish it
 Some problems might be solved differently than the teacher, and that is fine, we don't all have to think exactly the same.
 I will update this and move along with coding, as I enjoy it a lot.
 # Aiming for "Progress, not Perfection" on a daily basis.
-All comments are made by me in place I thought they are required and for my own thinking process.
+All comments are made by me in places I thought they are needed and for my own thinking process.
