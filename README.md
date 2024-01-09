@@ -1,5 +1,6 @@
 # 1-100_PythonCode_Challenge
 
+This repository contains code and projects completed during the "100 Days of Python" bootcamp by Angela Yu. This bootcamp is an intensive programming course that covers a wide range of topics in Python programming
 Tracking personal progress and learning process while tackling the challenges and the projects that are listed in the course material.
 
 All the concepts I learned helped me understand automation and how it can be used with python and several frames.
