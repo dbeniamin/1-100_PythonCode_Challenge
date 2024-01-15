@@ -16,8 +16,13 @@ Feel free to look, fork, copy the files and use them, see how the logic works an
 Made by: dbeniamin
 
 Update list:
+
 day 07 - Hangman - 09.01.2024
 
 Contains The Hangman game and a diagram that was used to break down the game. The game is made using separate files that are imported to main.py, instead of having all the code clutter one file only. 
+
+day 08 - Cesar Cypher - 15.01.2024
+
+Contains the Cesar Cypher software with comments and an art style used as the start of the software. The program has a few variants that are included in the repository. As before, comments are added in places that I consider relevant and used to explain key concepts.
 
 
