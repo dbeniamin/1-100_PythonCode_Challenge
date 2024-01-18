@@ -19,12 +19,18 @@ Update list:
 
 day 07 - Hangman - 09.01.2024
 
-Contains The Hangman game and a diagram that was used to break down the game. The game is made using separate files that are imported to main.py, instead of having all the code clutter one file only. 
+Contains The Hangman game and a diagram that was used to break down the game. The game is made using separate files that are imported to main.py, instead of having all the code clutter one file only.
+
+Main points of the application: 1. Well-known guess the word until all lives are depleted, 2. Chose a random word, compare the letters and fill in the slots if the letter is contained in the given word, 3. Have a game loop that allows the user to guess until the word is guessed or the number of lives are depleted, 4. Have a visual representation of the progression, i.e. letters remaining and lives lost so far.
 
 day 08 - Cesar Cypher - 15.01.2024
 
 Contains the Cesar Cypher software with comments and an art style used as the start of the software. The program has a few variants that are included in the repository. As before, comments are added in places that I consider relevant and used to explain key concepts.
 
+Main points of the application: 1. Taking a common phrase and shifting the characters to make the phrase encrypted, 2. Provide the shift amount to be able to decrypt the phrase, 3. Compare initial phrase, encrypted and decrypted answer.
+
 day 09 - Silent Auction - 18.01.2024
 
-Contain the Silent Auction application with personal comments and an art style used. Main points of the application: 1. Entering and saving a bid for each person, 2. Clear the screen, so the previous bid would not be visible, 3. Compare bids and get the highest winning bid.
+Contain the Silent Auction application with personal comments and an art style used. 
+
+Main points of the application: 1. Entering and saving a bid for each person, 2. Clear the screen, so the previous bid would not be visible, 3. Compare bids and get the highest winning bid.
