@@ -25,4 +25,6 @@ day 08 - Cesar Cypher - 15.01.2024
 
 Contains the Cesar Cypher software with comments and an art style used as the start of the software. The program has a few variants that are included in the repository. As before, comments are added in places that I consider relevant and used to explain key concepts.
 
+day 09 - Silent Auction - 18.01.2024
 
+Contain the Silent Auction application with personal comments and an art style used. Main points of the application: 1. Entering and saving a bid for each person, 2. Clear the screen, so the previous bid would not be visible, 3. Compare bids and get the highest winning bid.
