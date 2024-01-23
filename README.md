@@ -1,6 +1,6 @@
 # 1-100_Days_Python_Code_Challenge
 
-This project various lectures from the course by Dr. Angela Yu. Practice projects and comments that are relevant to myself and to my learning process.
+This project contains the lectures and projects from the course by Dr. Angela Yu. Practice projects and comments that are relevant to myself and to my learning process.
 
 
 ### Introduction:
