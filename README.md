@@ -18,7 +18,7 @@ This challenge is designed to help you enhance your Python programming skills ov
 
 ### day specific .py files 
 - **day specific .py files** These contain the daily course with personal comments in areas that i deemed necessary
-- **day specific project folders** These contain the day specific projects with all the files and the structure of of the project.
+- **day specific project folders** These contain the day specific projects with all the files and the structure of the project.
 
   
 ### Requirements:
@@ -64,7 +64,7 @@ Feel free to explore the files and folders in the repository and adapt them to s
 
 **day specific .py** : contain several explanations and practical examples of the topic for the specified day
 
-**day specific project folder** : contains a project that is build using topics and methods used during the day along with previously gained knowledge.
+**day specific project folder** : contains a project that is build using topics and methods used during the day, along with previously gained knowledge.
 
 ### Change Log:
 
