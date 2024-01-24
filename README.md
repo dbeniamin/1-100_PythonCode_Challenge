@@ -78,11 +78,15 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - Provide the shift amount to be able to decrypt the phrase.
 - Compare initial phrase, encrypted and decrypted answer.
 
- **18.01.2024 -> day 09 - Silent Auction** - Contain the Silent Auction application used to log bids without making them public.
+**18.01.2024 -> day 09 - Silent Auction** - Contain the Silent Auction application used to log bids without making them public.
 - Entering and saving a bid for each person.
 - Clear the screen, so the previous bid would not be visible.
 - Compare bids and get the highest winning bid.
 
+**24.01.2024 -> day 10 - Calculator** - Contains the Calculator application used for basic math.
+- Focused on creating functions and using them within a while loop and practice loop to reset the program if the user enters a specific key.
+- Provide some graphical references for the operations.
+- Store the previous result and continue operations with it.
 
 ### Contributing:
 
