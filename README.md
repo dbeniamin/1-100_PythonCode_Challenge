@@ -88,6 +88,11 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - Provide some graphical references for the operations.
 - Store the previous result and continue operations with it.
 
+**25.01.2024 -> day 11 - Blackjack** - Contains the Blackjack application to play against the computer by respecting a set of rules.
+- Focused on calculating cards and switching the A from 11 to 1 based on the dealt hand.
+- Make the Calculator to respect a set of rules
+- Random generate and deal cards to the Player and the Calculator, and save the dealt values.
+
 ### Contributing:
 
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
