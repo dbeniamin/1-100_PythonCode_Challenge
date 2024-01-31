@@ -90,8 +90,13 @@ Feel free to explore the files and folders in the repository and adapt them to s
 
 **25.01.2024 -> day 11 - Blackjack** - Contains the Blackjack application to play against the computer by respecting a set of rules.
 - Focused on calculating cards and switching the A from 11 to 1 based on the dealt hand.
-- Make the Calculator to respect a set of rules
+- Make the Calculator to respect a set of rules.
 - Random generate and deal cards to the Player and the Calculator, and save the dealt values.
+
+**31.01.2024 -> day 14 - Higher Lower - Game** - Guessing game that will randomize the A and B at start.
+- B option will become A option and B will get another random generated option.
+- Counting the score of the player.
+- Personal twist with Football stadiums instead of the course template.
 
 ### Contributing:
 
