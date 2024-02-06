@@ -98,6 +98,9 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - Counting the score of the player.
 - Personal twist with Football stadiums instead of the course template.
 
+**06.02.2024 -> day 16 - Coffee Machine OOP**  - Contains the Coffee Machine app in an OOP style.
+- Focused on using the OOP style to address various parts of the Coffee Machine.
+
 ### Contributing:
 
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
