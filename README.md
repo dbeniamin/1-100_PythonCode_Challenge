@@ -101,6 +101,11 @@ Feel free to explore the files and folders in the repository and adapt them to s
 **06.02.2024 -> day 16 - Coffee Machine OOP**  - Contains the Coffee Machine app in an OOP style.
 - Focused on using the OOP style to address various parts of the Coffee Machine.
 
+**07.02.2024 -> day 16 - Quiz Game OOP**  - Contains the Quiz Game app in an OOP style.
+- Focused on using OOP and importing from several files.
+- Saving the score and progress along the way to provide the user with a sense of progression.
+
+
 ### Contributing:
 
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
