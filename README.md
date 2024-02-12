@@ -105,6 +105,11 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - Focused on using OOP and importing from several files.
 - Saving the score and progress along the way to provide the user with a sense of progression.
 
+**12.02.2024 -> day 18 - Hirst Painting**  - Contains a Hirst like painting program.
+- focused on extracting colors from a predefined image
+- randomizes the extracted colors and creates a Hirst like painting with a random color.
+- the app uses turtle module.
+
 
 ### Contributing:
 
