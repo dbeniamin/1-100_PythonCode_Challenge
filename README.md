@@ -110,6 +110,11 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - randomizes the extracted colors and creates a Hirst like painting with a random color.
 - the app uses turtle module.
 
+**13.02.2024 -> day 19 - Turtle Race **  - Contains a Turtle race program.
+- focused on generating turtles and make them race at random speeds
+- requesting input from the user and calculating the winner vs user input.
+
+
 
 ### Contributing:
 
