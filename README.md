@@ -114,6 +114,9 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - focused on generating turtles and make them race at random speeds
 - requesting input from the user and calculating the winner vs user input.
 
+**14.02.2024 -> day 20-21 - Snake Game**  - Contains the well known Snake game made using Turtle module. Given the complexity of the project, this is listed as a two-day project.
+- OOP structure focused on break down the game specific functions.
+- Score tracking, speed increasing and collision detections are a few features of the app.
 
 
 ### Contributing:
