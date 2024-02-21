@@ -128,6 +128,10 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - Score tracking, speed increasing and collision detections are a few features of the app.
 - Turtle set-up to move forward, difficulty increases with every cleared level.
 
+**21.02.2024 -> day 24 - Mail Merge**  - Contains a Mail Merging app.
+- Focused on file paths and folder accessing to get, handle and update the data.
+- Replacing a filler in a template with names from a different list.
+- Auto generating personalized (name based) mails.
 
 
 
