@@ -133,6 +133,9 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - Replacing a filler in a template with names from a different list.
 - Auto generating personalized (name based) mails.
 
+**26.02.2024 -> day 24 - CSV files**  - Contains a script used to count the squirrels in Central Park, NY.
+- Focused on file handling and data accessing.
+- Extracting, saving and updating the data in various CSV files.
 
 
 
