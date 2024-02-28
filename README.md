@@ -138,6 +138,11 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - Extracting, saving and updating the data in various CSV files.
 
 
+**28.02.2024 -> day 24 - NATO Alphabet**  - Contains a script used to convert letters from an input word.
+- Converts a word in to NATO alphabet notations.
+
+
+
 
 ### Contributing:
 
