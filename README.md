@@ -144,7 +144,7 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - Uses a GUI based script that allows user input.
 - Returns the result to the user and binds function to a button.
   
-**13.03.2024 -> day 27 - Pomodoro app**  - Contains the Pomodoro app.
+**13.03.2024 -> day 28 - Pomodoro app**  - Contains the Pomodoro app.
 - Uses a GUI based app that allows to track learning time based on Pomodoro principles.
 - Using the basic app design the user can also add sound notifications.
 
