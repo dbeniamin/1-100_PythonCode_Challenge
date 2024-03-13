@@ -133,17 +133,20 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - Replacing a filler in a template with names from a different list.
 - Auto generating personalized (name based) mails.
 
-**26.02.2024 -> day 24 - CSV files**  - Contains a script used to count the squirrels in Central Park, NY.
+**26.02.2024 -> day 25 - CSV files**  - Contains a script used to count the squirrels in Central Park, NY.
 - Focused on file handling and data accessing.
 - Extracting, saving and updating the data in various CSV files.
 
-**28.02.2024 -> day 24 - NATO Alphabet**  - Contains a script used to convert letters from an input word.
+**28.02.2024 -> day 26 - NATO Alphabet**  - Contains a script used to convert letters from an input word.
 - Converts a word in to NATO alphabet notations.
 
 **12.03.2024 -> day 27 - Miles to KM converter**  - Contains a script used to convert miles to KM.
 - Uses a GUI based script that allows user input.
 - Returns the result to the user and binds function to a button.
-
+  
+**13.03.2024 -> day 27 - Pomodoro app**  - Contains the Pomodoro app.
+- Uses a GUI based app that allows to track learning time based on Pomodoro principles.
+- Using the basic app design the user can also add sound notifications.
 
 
 ### Contributing:
