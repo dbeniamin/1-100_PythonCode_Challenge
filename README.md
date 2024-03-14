@@ -148,6 +148,10 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - Uses a GUI based app that allows to track learning time based on Pomodoro principles.
 - Using the basic app design the user can also add sound notifications.
 
+**14.03.2024 -> day 25 - Romania County Game**  - Contains guess the county app made specifically for Romania.
+- The folder has 2 .py files one is a course specific and another one is the Romania County Game.
+- Has additionally included a high score file and a timer that is visible to the player while also counting down.
+
 
 ### Contributing:
 
