@@ -155,6 +155,7 @@ Feel free to explore the files and folders in the repository and adapt them to s
 **18.03.2024 -> day 29 - Password Manager**  - Pass Manager is an app made to store various details.
 - GUI app that helps keep track of passwords, usernames, and websites.
 - Can be transformed to a .exe and can run locally without the need for python environment.
+- **20.03.2024** - updated with a personal version and an oop version
 
 
 ### Contributing:
