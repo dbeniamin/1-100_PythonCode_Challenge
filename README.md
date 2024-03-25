@@ -157,6 +157,10 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - Can be transformed to a .exe and can run locally without the need for python environment.
 - **20.03.2024** - updated with a personal version and an oop version
 
+**25.03.2024 -> day 31 - Capstone Project**  - Flash Card App that can be used to learn other languages.
+- GUI app that helps learning words in other languages, focused around working with diffrent files.
+- Flash green when the answer is correct and red when it is wrong.
+
 
 ### Contributing:
 
