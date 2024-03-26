@@ -161,6 +161,11 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - GUI app that helps learning words in other languages, focused around working with diffrent files.
 - Flash green when the answer is correct and red when it is wrong.
 
+**26.03.2024 -> day 32_1 - SMTP merger**  - Script to send emails that pic a random quote.
+- Made using smtp and file navigation.
+
+
+day 32_1 - SMTP merger
 
 ### Contributing:
 
