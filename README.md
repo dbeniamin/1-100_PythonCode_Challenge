@@ -161,11 +161,12 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - GUI app that helps learning words in other languages, focused around working with diffrent files.
 - Flash green when the answer is correct and red when it is wrong.
 
-**26.03.2024 -> day 32_1 - SMTP merger**  - Script to send emails that pic a random quote.
-- Made using smtp and file navigation.
+**26.03.2024 -> day 32_1 - SMTP merger**  - Script to send emails that pick a random quote.
+- Made using smtp and file handling.
 
-
-day 32_1 - SMTP merger
+**27.03.2024 -> day 32 - Automated Birthday Wisher**  - Script to automate birthday wishes.
+- Made using the SMTP module and Pandas to handle the file navigation.
+- Picks the email template from a db and sends the birthday wishes based on the date and time extracted when the script runs.
 
 ### Contributing:
 
