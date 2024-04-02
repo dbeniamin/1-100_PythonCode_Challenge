@@ -168,6 +168,12 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - Made using the SMTP module and Pandas to handle the file navigation.
 - Picks the email template from a db and sends the birthday wishes based on the date and time extracted when the script runs.
 
+**02.04.2024 -> day 33_1 - Kanye Quote Machiner** - Fun GUI app that generates random quotes.
+- Made by pulling API data.
+- GUI designed in tkinter with specific elements.
+  
+
+
 ### Contributing:
 
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
