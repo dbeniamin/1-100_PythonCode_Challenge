@@ -171,7 +171,10 @@ Feel free to explore the files and folders in the repository and adapt them to s
 **02.04.2024 -> day 33_1 - Kanye Quote Machiner** - Fun GUI app that generates random quotes.
 - Made by pulling API data.
 - GUI designed in tkinter with specific elements.
-  
+
+**02.04.2024 -> day 33_2 - ISS overhead notifier** - Script that will notify you if the ISS is above you.
+- Made by pulling API data.
+- Mixing various modules that have been used so far.
 
 
 ### Contributing:
