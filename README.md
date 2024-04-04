@@ -172,9 +172,16 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - Made by pulling API data.
 - GUI designed in tkinter with specific elements.
 
-**02.04.2024 -> day 33_2 - ISS overhead notifier** - Script that will notify you if the ISS is above you.
+**03.04.2024 -> day 33_2 - ISS overhead notifier** - Script that will notify you if the ISS is above you.
 - Made by pulling API data.
 - Mixing various modules that have been used so far.
+
+**04.04.2024 -> day 34 - Trivia GUI Quizz App** - App that random generates a quiz.
+- Uses API data and interactions.
+- OOP structure to the application.
+- GUI designed with tkinter module.
+
+
 
 
 ### Contributing:
