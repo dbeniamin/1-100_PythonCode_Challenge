@@ -17,8 +17,8 @@ This challenge is designed to help you enhance your Python programming skills ov
 ### Project Structure:
 
 ### day specific .py files 
-- **day specific .py files** These contain the daily course with personal comments in areas that i deemed necessary
-- **day specific project folders** These contain the day specific projects with all the files and the structure of the project.
+- **day specific .py files.** These contain the daily course with personal comments in areas that i deemed necessary
+- **day specific project folders.** These contain the day specific projects with all the files and the structure of the project.
 
   
 ### Requirements:
