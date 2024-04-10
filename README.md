@@ -181,6 +181,9 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - OOP structure to the application.
 - GUI designed with tkinter module.
 
+**10.04.2024 -> day 36 - Stock Tracking App** - App that tracks the price of stocks and pulls the news for that specific company.
+- Uses API data and interactions.
+- Notification module with sms text and twilio API.
 
 
 
