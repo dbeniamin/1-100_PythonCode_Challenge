@@ -185,6 +185,10 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - Uses API data and interactions.
 - Notification module with sms text and twilio API.
 
+**15.04.2024 -> day 37 - Habit Tracker** - App that tracks habbits.
+- Uses API data and interactions.
+- API calls detailed in the main file.
+
 
 
 ### Contributing:
