@@ -189,6 +189,10 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - Uses API data and interactions.
 - API calls detailed in the main file.
 
+**17.04.2024 -> day 38 - Workout Tracker with GoogleSheets** - App that tracks Workouts and results.
+- Uses API data and interactions.
+- Early  example of language model transfered to data sheet and interpreed by an API.
+
 
 
 ### Contributing:
