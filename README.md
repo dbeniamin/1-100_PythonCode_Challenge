@@ -193,6 +193,8 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - Uses API data and interactions.
 - Early  example of language model transfered to data sheet and interpreed by an API.
 
+**22.04.2024 -> day 39 - Capstone - Cheap Flight Finder** - App that finds cheap flights based on the user's requests.
+- Uses API data and interactions to pull information, compare, and generate a notification if conditions are met.
 
 
 ### Contributing:
