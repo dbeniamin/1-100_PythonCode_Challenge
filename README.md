@@ -196,6 +196,10 @@ Feel free to explore the files and folders in the repository and adapt them to s
 **22.04.2024 -> day 39 - Capstone - Cheap Flight Finder** - App that finds cheap flights based on the user's requests.
 - Uses API data and interactions to pull information, compare, and generate a notification if conditions are met.
 
+**25.04.2024 -> day 40 - Flight Deals - Group Email** - Scaled up the Cheap Flight Finder project.
+- Added a list of people that can get notified by adding e-mails.
+- OOP structure, focused and API calls, managing the notifications.
+
 
 ### Contributing:
 
