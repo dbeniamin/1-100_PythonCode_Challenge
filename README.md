@@ -200,6 +200,9 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - Added a list of people that can get notified by adding e-mails.
 - OOP structure, focused and API calls, managing the notifications.
 
+**30.04.2024 -> day 41 - HTML Introduction** - Introductions to HTML structure.
+- Several exercises are based on HTML structure and implementation.
+
 
 ### Contributing:
 
