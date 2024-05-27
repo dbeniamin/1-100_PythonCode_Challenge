@@ -1,0 +1,33 @@
+/* tag definition*/
+/* <- comment a css line -> */
+
+h2{
+    color: red;
+}
+
+
+/* class definition */
+.red-text{
+    color:red;
+}
+
+/* id definition */
+
+#main{
+    color: green
+}
+
+/* Attribute selector - definition */
+/* refers to all pragraphs with a [draggable] attribute */
+p[draggable=true]{
+    color: yellow;
+}
+p[draggable=false]{
+    color: blue;
+}
+
+/* Global selector */
+/* will apply to everything is there are no specific rules in place*/
+*{
+    color: aqua;
+}
