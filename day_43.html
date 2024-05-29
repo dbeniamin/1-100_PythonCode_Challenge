@@ -1,0 +1,83 @@
+<!-- there are 3 ways to add CSS to HTML -->
+
+<!-- Inline -->
+<!--<tag style= "css" />
+
+<!-- <html style= "background: blue" >
+</html>
+<!-- not recomended to use unless its only need in one place of the document-->
+
+
+
+<!-- Internal -->
+<style> css
+</style> 
+
+<html>
+    <head>
+        <style>
+            html{
+                background: gray;
+            }
+        </style>    
+    </head>
+</html>
+
+<!-- not recomended for a multy layer page -->
+
+
+
+
+
+<!-- External -->
+
+<link href="style.css"/>
+<html>
+    <head>
+        <link
+            rel="stylesheet"
+            href="./styles.css"
+        />    
+    </head>
+</html>
+
+<!-- rel refers to a relationship and href refers to a location of the file -->
+
+
+
+<!-- CSS Selector  -  select what part the css is applyed too , will apply to all elements with that given tag -->
+
+<head>
+    <link rel="stylesheet" href="./day_43.css">
+</head>
+
+<h2> Red </h2>
+<h2> Green </h2>
+<h2> Blue </h2>
+
+<!-- Class Selector - .nameoftheclass , class can be added as attribute to any html tag -->
+<!-- Class Selector needs to be defined in the css file -->
+
+<h3 class="red-text"> Red </h2>
+<h3> Green </h2>
+<h3> Blue </h2>
+
+<!-- multiple elements can be tagged using the same class and it will apply the class proprieties -->
+<h2 class="red-text"> Heading 2</h2>
+<h3> Heading 3 </h3>
+<p class="red-text"> Test paragraph color </p>
+
+
+<!-- ID Selector = # , this will select elements with the same id tag -->
+<h2 id ="main"> Main header </h2>
+<h2> Main header </h2>
+<h2> Main header </h2>
+
+<!-- -------------- id vs class CSS selector -------------- -->
+<!-- class selector can be applied to many elements -->
+<!-- id selector should be applyed to only one element in the html file -->
+
+<!-- Attribute Selector -->
+<p draggable="true"> dragable paragraph </p>
+<p draggable="false"> not a draggable paragraph </p>
+<p draggable="false"> not a draggable paragraph </p>
