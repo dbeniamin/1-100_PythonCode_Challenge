@@ -1,0 +1,76 @@
+<!-- CSS colors -->
+
+<!-- named colors cand be used by name, keyword, RGB value -->
+
+<!-- formating fonts with CSS -->
+h1{
+    color: blue
+    font-weight: bold
+    font-size: 20px           -> actual size  
+    font-family: sans-sherif  -> what font you want
+}
+
+1px= 1/96 inch(0.26mm)
+1pt = 1/72 inch(0.35mm) i.e 12 size font in ms word = 12 pt
+1em = 100% of the parent -> will take the font of the parent tag =>  i.e 2em = 2 X parent font
+1rem = 100% of the root -> will take the root size font => the thing that encloses the whole html file
+
+     Recommendation
+Use the 1rem font size !!
+
+
+<!-- Font familly -->
+h1 {
+    font-family: Helvetica, sans-serif
+}
+h2 {
+    font-family: "Times New Roman", serif
+}
+
+sans-serif => font type with all the edges at 90 degrees 
+serif => font type with round edges
+
+!!! fonts.google.com   => page with various fonts
+
+Choosing a specific font make sure it is linked so it will be visible to everyone.
+
+
+
+<!-- Text Alignment -->
+h1{
+    text-align: center 
+}
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/text-align
+
+
+<!-- CSS box model -->
+each element is a box => can have width and height adjustable
+can be defined using px or using %
+
+--> border => border for the specific box
+3 proprieties => 10px solid black ( thickness color )
+
+--> nesting border additional proprieties
+border: 30px solid black
+    border-top: 0px
+
+border: 30px solid black
+border-width: 0px 10px 20px 30px --> this will go clockwise i.e 0 up, 10 right, 20 bottom, 30 left
+
+
+<!-- Padding -->
+padding will add space between border and body
+
+<!-- Margin -->
+margin will add space from the border to any other element on the screen
+
+
+-->  Content division HTML element    <<<--
+<div> invisible element unless you apply CSS </div>
+--> acts as invisible box that can nest multiple elements
+--> can be used to group multiple elements and apply style to all of them
+
+
+
+
