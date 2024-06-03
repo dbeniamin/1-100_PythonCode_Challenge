@@ -209,6 +209,10 @@ Feel free to explore the files and folders in the repository and adapt them to s
 **28.05.2024 -> day 43 - CSS Introduction** - Introductions to CSS structure.
 - Several exercises are based on CSS structure and implementation.
 
+**03.06.2024 -> day 44 - CSS - Intermediate** - Intermediate level of CSS structure and design.
+- Several exercises are based on intermediate level of CSS structure and implementation.
+
+
 ### Contributing:
 
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
