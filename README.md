@@ -212,7 +212,10 @@ Feel free to explore the files and folders in the repository and adapt them to s
 **03.06.2024 -> day 44 - CSS - Intermediate** - Intermediate level of CSS structure and design.
 - Several exercises are based on intermediate level of CSS structure and implementation.
 
-**05.06.2024 -> day 45 - Web Scraping - Beautiful Soup** - Top 100 movies to watch application.
+**05.06.2024 -> day 45 - Web Scraping - Beautiful Soup** - Introduction to webscraping.
+- Introduction to Beautiful Soup and how to scrape for data.
+
+**06.06.2024 -> day 45 - day 45_1 - Top 100 movies** - Top 100 movies to watch application.
 - Uses Beautiful Soup to scrape the data and other data manipulation techniques to make the list of top 100 movies to watch.
 
   
