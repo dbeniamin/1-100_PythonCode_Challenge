@@ -215,8 +215,14 @@ Feel free to explore the files and folders in the repository and adapt them to s
 **05.06.2024 -> day 45 - Web Scraping - Beautiful Soup** - Introduction to webscraping.
 - Introduction to Beautiful Soup and how to scrape for data.
 
-**06.06.2024 -> day 45 - day 45_1 - Top 100 movies** - Top 100 movies to watch application.
+**06.06.2024 -> day 45_1 - Top 100 movies** - Top 100 movies to watch application.
 - Uses Beautiful Soup to scrape the data and other data manipulation techniques to make the list of top 100 movies to watch.
+
+**20.06.2024 -> day 46 - Spotify Playlist** - Auto generated Spotify Playlist.
+- Uses Beautiful Soup to scrape the data of top 100 billboard.
+- Logs and uses the Spotify API to check if scraped songs are available in your country.
+- Creates a Spotify playlist with the date requested by the user and the billboard 100 title.
+
 
   
 ### Contributing:
