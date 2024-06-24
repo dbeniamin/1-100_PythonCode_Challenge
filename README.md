@@ -223,6 +223,11 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - Logs and uses the Spotify API to check if scraped songs are available in your country.
 - Creates a Spotify playlist with the date requested by the user and the billboard 100 title.
 
+**24.06.2024 -> day 47 - Online Price Tracker** - Price tracker script.
+- Uses Beautiful Soup to scrape the price of a specific item.
+- Sends an email with the price alert to a preset email using the smtplib module.
+
+
 
   
 ### Contributing:
