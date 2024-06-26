@@ -227,7 +227,8 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - Uses Beautiful Soup to scrape the price of a specific item.
 - Sends an email with the price alert to a preset email using the smtplib module.
 
-
+**26.06.2024 -> day 48 - Scraping with Selenium** - Scraping data with Selenium interactions.
+- OOP structure to scrape data with by using Selenium locators logic.
 
   
 ### Contributing:
