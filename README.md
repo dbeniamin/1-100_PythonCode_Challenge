@@ -230,7 +230,12 @@ Feel free to explore the files and folders in the repository and adapt them to s
 **26.06.2024 -> day 48 - Scraping with Selenium** - Scraping data with Selenium interactions.
 - OOP structure to scrape data with by using Selenium locators logic.
 
-  
+**27.06.2024 -> day 48_1 - The Cookie Clicker Project** - Cookie Cliker bot with Selenium.
+- Using Selenium to find items and interact with them based on the prices.
+- Compares the prices and clicks the min value upgrade available. 
+
+
+
 ### Contributing:
 
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
