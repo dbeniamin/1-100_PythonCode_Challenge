@@ -232,8 +232,10 @@ Feel free to explore the files and folders in the repository and adapt them to s
 
 **27.06.2024 -> day 48_1 - The Cookie Clicker Project** - Cookie Cliker bot with Selenium.
 - Using Selenium to find items and interact with them based on the prices.
-- Compares the prices and clicks the min value upgrade available. 
-
+- Compares the prices and clicks the min value upgrade available.
+  
+**01.07.2024 -> day 48_1 - The Cookie Clicker Project - Max approach** - New apporach to Cookie Clicker 
+- Chosing max cos available upgrade and ignores the clicker item
 
 
 ### Contributing:
