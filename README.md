@@ -237,6 +237,10 @@ Feel free to explore the files and folders in the repository and adapt them to s
 **01.07.2024 -> day 48_1 - The Cookie Clicker Project - Max approach** - New apporach to Cookie Clicker 
 - Chosing max cos available upgrade and ignores the clicker item
 
+**03.07.2024 -> day 53 - Capstone Scraping and Data entry** - Scraping program that fills out the data in to a Google form.
+- Scrape data using Beautiful Soup.
+- Fill out the scraped data in a Google form using Selenium Automation.
+
 
 ### Contributing:
 
