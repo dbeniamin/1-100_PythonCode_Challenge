@@ -241,6 +241,9 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - Scrape data using Beautiful Soup.
 - Fill out the scraped data in a Google form using Selenium Automation.
 
+**08.07.2024 -> day 54 - Auditorium Exercise** - Auditorium Exercise from the course tracker.
+- Decorator to track the speed at which the functions do the calculations.
+  
 
 ### Contributing:
 
