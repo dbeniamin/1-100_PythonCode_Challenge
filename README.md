@@ -244,6 +244,9 @@ Feel free to explore the files and folders in the repository and adapt them to s
 **08.07.2024 -> day 54 - Auditorium Exercise** - Auditorium Exercise from the course tracker.
 - Decorator to track the speed at which the functions do the calculations.
   
+**10.07.2024 -> day 55_1 - Auditorium Exercise** - Auditorium Exercise from the course tracker.
+- Createing the logging_decorator() function.
+
 
 ### Contributing:
 
