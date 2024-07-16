@@ -251,6 +251,10 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - Works based on URL guessing.
 - Renders various GIFs based on the guess of the user.
 
+**16.07.2024 -> day 56 - Personal Site** - Personal Site project with Flask.
+- Rendering CSS and HTML files with Flask.
+- Building specific folders for images and interactions.
+
 
 
 ### Contributing:
