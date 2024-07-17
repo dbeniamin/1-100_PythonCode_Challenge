@@ -255,6 +255,9 @@ Feel free to explore the files and folders in the repository and adapt them to s
 - Rendering CSS and HTML files with Flask.
 - Building specific folders for images and interactions.
 
+**17.07.2024 -> day 56_1 - Name Card** - Personalized name card Website.
+- Rendering CSS and HTML files with Flask, can be used as a baseline for a personal digital Card.
+- Adding personal touch to the HTML5 UP template.
 
 
 ### Contributing:
