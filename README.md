@@ -2,7 +2,6 @@
 
 This project contains the lectures and projects from the course by Dr. Angela Yu. Practice projects and comments that are relevant to myself and to my learning process.
 
-
 ### Introduction:
 
 This challenge is designed to help you enhance your Python programming skills over the course of 100 days. Whether you are a beginner looking to build a solid foundation or an experienced developer aiming to deepen your Python knowledge, this challenge is tailored for everyone. Each day, you'll find a new coding task or project in its dedicated folder. The challenges are crafted to cover a wide range of Python concepts, from basic syntax to advanced topics like web development, data analysis, and more.
@@ -20,10 +19,9 @@ This challenge is designed to help you enhance your Python programming skills ov
 - **day specific .py files.** These contain the daily course with personal comments in areas that i deemed necessary
 - **day specific project folders.** These contain the day specific projects with all the files and the structure of the project.
 
-  
 ### Requirements:
 
-Please make sure that the required libraries and frameworks are installed for proper project functionality.
+Please make sure that the required libraries, frameworks and files are installed and present for proper project functionality.
 
 ### Installation:
 
@@ -56,14 +54,11 @@ To use the day specific project folders:
 3. Save the contents run `main.py`.
 4. Feel free to open and analyze other files that are within the project folder.
 
-You can customize the files / folders as needed for your own desired usage. Additionally, ensure you have the required dependencies installed.
-
-Feel free to explore the files and folders in the repository and adapt them to suit your needs.
+You can customize the files / folders as needed for your own desired usage. Feel free to explore the files and folders in the repository and adapt them to suit your needs.
 
 ### Description:
 
 **day specific .py** : contain several explanations and practical examples of the topic for the specified day
-
 **day specific project folder** : contains a project that is build using topics and methods used during the day, along with previously gained knowledge.
 
 ### Change Log:
