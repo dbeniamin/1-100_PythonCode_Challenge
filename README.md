@@ -38,7 +38,6 @@ Please make sure that the required libraries, frameworks and files are installed
 ### day specific .py files
 
 To use the day specific .py files:
-
 1. Copy the content of day_xx.py .
 2. Paste the content into a new Python file (e.g., `my_day_xx.py`).
 3. Save the file and look over / run it.
@@ -48,7 +47,6 @@ Feel free to modify and adapt the files based on your specific requirements.
 ### day specific project folders
 
 To use the day specific project folders:
-
 1. Copy the content of `day xx - project name` folder.
 2. Paste the content into a new folder.
 3. Save the contents run `main.py`.
