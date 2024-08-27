@@ -4,6 +4,7 @@ This project contains the lectures and projects from the course by Dr. Angela Yu
 
 ### Introduction:
 
+
 This challenge is designed to help you enhance your Python programming skills over the course of 100 days. Whether you are a beginner looking to build a solid foundation or an experienced developer aiming to deepen your Python knowledge, this challenge is tailored for everyone. Each day, you'll find a new coding task or project in its dedicated folder. The challenges are crafted to cover a wide range of Python concepts, from basic syntax to advanced topics like web development, data analysis, and more.
 
 ### Key Features:
