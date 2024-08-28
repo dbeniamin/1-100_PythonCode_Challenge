@@ -253,6 +253,9 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Rendering CSS and HTML files with Flask, can be used as a baseline for a personal digital Card.
 - Adding personal touch to the HTML5 UP template.
 
+**28.08.2024 → day 57 - Jinja** - Introduction to Jinja.
+- Basic website building blocks using Jinja and Flask.
+
 
 ### Contributing:
 
