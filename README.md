@@ -257,6 +257,12 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Basic website building blocks using Jinja and Flask.
 
 
+**29.08.2024 → day 57_1 - Blog Capstone Project Part 1 - Templating** - Templating a blog-like page using Jinja.
+- Pulls information from an API.
+- Setting up a templat that will be auto applyed to a blog like page.
+- Redirects to the detailed page applying the same templating
+
+
 ### Contributing:
 
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
