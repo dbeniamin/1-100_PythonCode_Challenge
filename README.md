@@ -256,12 +256,13 @@ You can customize the files / folders as needed for your own desired usage. Feel
 **28.08.2024 → day 57 - Jinja** - Introduction to Jinja.
 - Basic website building blocks using Jinja and Flask.
 
-
 **29.08.2024 → day 57_1 - Blog Capstone Project Part 1 - Templating** - Templating a blog-like page using Jinja.
 - Pulls information from an API.
 - Setting up a template that will be auto applied to a blog like page.
 - Redirects to the detailed page applying the same templating
 
+**03.09.2024 → day 58 - Bootstrap Intro** - Introduction to Bootstrap.
+- Easy to code exercise with TO-DOs that focus on applying Bootstrap to a web page.
 
 ### Contributing:
 
