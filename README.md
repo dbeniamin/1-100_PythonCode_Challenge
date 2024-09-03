@@ -264,6 +264,12 @@ You can customize the files / folders as needed for your own desired usage. Feel
 **03.09.2024 → day 58 - Bootstrap Intro** - Introduction to Bootstrap.
 - Easy to code exercise with TO-DOs that focus on applying Bootstrap to a web page.
 
+**04.09.2024 → day 58_1 - Bootstrap Components** - Diving in to Bootstrap.
+- Templating a web page using Bootstrap elements.
+
+
+
+
 ### Contributing:
 
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
