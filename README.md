@@ -267,6 +267,9 @@ You can customize the files / folders as needed for your own desired usage. Feel
 **04.09.2024 → day 58_1 - Bootstrap Components** - Diving in to Bootstrap.
 - Templating a web page using Bootstrap elements.
 
+**05.09.2024 → day 58_2 - TinDog** - Tinder for Dogs build with Bootstrap.
+- Templating a Tinder like page for dogs using Bootstrap.
+
 
 
 
