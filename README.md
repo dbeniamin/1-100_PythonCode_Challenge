@@ -270,6 +270,8 @@ You can customize the files / folders as needed for your own desired usage. Feel
 **05.09.2024 → day 58_2 - TinDog** - Tinder for Dogs build with Bootstrap.
 - Templating a Tinder like page for dogs using Bootstrap.
 
+**03.10.2024 → day 59 - Blog Capstone part 2 - styling** - Continue the day 57 by adding styling.
+- Stylize the skeleton blog build in day 57.
 
 
 
