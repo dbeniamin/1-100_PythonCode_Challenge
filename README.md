@@ -274,7 +274,7 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Stylize the skeleton blog build in day 57.
 
 **16.10.2024 → day 60 - day 60 - Requests with Flask - Functional contact form** - The blog created on day 57 has now a functional contact form.
-- Build using smtplib, jinja, requests and flask.
+- Made using smtplib, jinja, requests and flask.
 - Focused on introduction of mailing service being added to the contact form and routing it, so the mails are sent to target email address.
 
 ### Contributing:
