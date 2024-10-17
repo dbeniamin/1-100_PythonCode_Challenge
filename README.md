@@ -277,6 +277,10 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Made using smtplib, jinja, requests and flask.
 - Focused on introduction of mailing service being added to the contact form and routing it, so the mails are sent to target email address.
 
+**17.10.2024 → day 61 - Advanced Forms with Flask - WTForms** - Premade form rendering with Flask.
+- Uses WTForms premade to import and render the form with Flask.
+
+
 ### Contributing:
 
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
