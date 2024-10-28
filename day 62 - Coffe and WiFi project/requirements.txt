@@ -1,0 +1,4 @@
+flask_bootstrap
+flask_wtf
+wtforms
+flask
