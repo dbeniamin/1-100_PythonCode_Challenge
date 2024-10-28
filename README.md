@@ -280,6 +280,10 @@ You can customize the files / folders as needed for your own desired usage. Feel
 **17.10.2024 → day 61 - Advanced Forms with Flask - WTForms** - Premade form rendering with Flask.
 - Uses WTForms premade to import and render the form with Flask.
 
+**28.10.2024 → day 62 - Coffe and WiFi project** - Project list with Coffee shops and facilities provided - Wi-Fi and other stuff.
+- Skeleton HTML added alongside CSV data that stores the details, requirements.txt added with the necessary libs in order to make the project run
+- Flask and Jinja to be user in the python file that will drive the project
+  
 
 ### Contributing:
 
