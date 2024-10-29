@@ -283,7 +283,9 @@ You can customize the files / folders as needed for your own desired usage. Feel
 **28.10.2024 → day 62 - Coffe and WiFi project** - Project list with Coffee shops and facilities provided - Wi-Fi and other stuff.
 - Skeleton HTML added alongside CSV data that stores the details, requirements.txt added with the necessary libs in order to make the project run
 - Flask and Jinja to be user in the python file that will drive the project
-  
+
+**29.10.2024 → added main.py for day 62 - Coffe and WiFi project ** - Added main.py file that contains the flask app.
+- Renders templates using Jinja and pulls data from the CSV file that holds data about coffee shops.
 
 ### Contributing:
 
