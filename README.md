@@ -290,6 +290,9 @@ You can customize the files / folders as needed for your own desired usage. Feel
 **30.10.2024 → day 63 - Book manager site - no DB yet** - Book manager with no db, runs on Flask
 - Renders templates using Jinja.
 
+**30.10.2024 → day 63_1 - SQLite DB** - SQLite DB operations from python code.
+- Python implementation for a database using SQLite DB and usage of python syntax to work with the db.
+
 
 ### Contributing:
 
