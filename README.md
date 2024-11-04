@@ -293,6 +293,9 @@ You can customize the files / folders as needed for your own desired usage. Feel
 **30.10.2024 → day 63_1 - SQLite DB** - SQLite DB operations from python code.
 - Python implementation for a database using SQLite DB and usage of python syntax to work with the db.
 
+**04.11.2024 → day 63_2 - SQLAlchemy** - How to manipulate DB using SQLAlchemy.
+- Contains examples on how to add, edit, update, delete DB entries using Python language and SQLAlchemy library.
+
 
 ### Contributing:
 
