@@ -296,6 +296,10 @@ You can customize the files / folders as needed for your own desired usage. Feel
 **04.11.2024 → day 63_2 - SQLAlchemy** - How to manipulate DB using SQLAlchemy.
 - Contains examples on how to add, edit, update, delete DB entries using Python language and SQLAlchemy library.
 
+**06.11.2024 → day 63_3 - Book Manager with DB** - Remaking the Book Manager site with DB.
+- Removed the CSV file that served as preliminary database.
+- Added structure template files with HTML - main.py with logical structure and functionality to be added soon.
+  
 
 ### Contributing:
 
