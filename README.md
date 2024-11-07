@@ -300,6 +300,10 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Removed the CSV file that served as preliminary database.
 - Added structure template files with HTML - main.py with logical structure and functionality to be added soon.
   
+**06.11.2024 → main.py** - Added main.py for day 63_3 Project.
+- Contains the logical structure and the functionality of the project.
+- Can be used as a baseline for various projects that include DB manipulation.
+
 
 ### Contributing:
 
