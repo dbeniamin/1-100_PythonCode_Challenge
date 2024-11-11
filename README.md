@@ -300,9 +300,14 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Removed the CSV file that served as preliminary database.
 - Added structure template files with HTML - main.py with logical structure and functionality to be added soon.
   
-**06.11.2024 → main.py** - Added main.py for day 63_3 Project.
+**07.11.2024 → main.py** - Added main.py for day 63_3 Project.
 - Contains the logical structure and the functionality of the project.
 - Can be used as a baseline for various projects that include DB manipulation.
+
+**11.11.2024 → day 64 - My top 10 movies Website** - Top 10 movie Website for each taste.
+- Cover image model with a DB and details of the movie on the back of the card.
+- Added structure template files with HTML - main.py with logical structure and functionality to be added soon.
+
 
 
 ### Contributing:
