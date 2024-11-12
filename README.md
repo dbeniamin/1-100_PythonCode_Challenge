@@ -308,6 +308,9 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Cover image model with a DB and details of the movie on the back of the card.
 - Added structure template files with HTML - main.py with logical structure and functionality to be added soon.
 
+**12.11.2024 → day 64 - main.py** - Added main.py for day 64 Project.
+- Make sure you use OS module for the keys or hard-code your keys in the code file.
+- The project is a mix of API calls, search, add to db, buttons and layout using python code.
 
 
 ### Contributing:
