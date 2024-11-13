@@ -312,6 +312,9 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Make sure you use OS module for the keys or hard-code your keys in the code file.
 - The project is a mix of API calls, search, add to db, buttons and layout using python code.
 
+**13.11.2024 → day 65 - Web Design School** - Web design principles.
+- Breakdown of the color theory that is applicable when you design Web pages and / or applications.
+
 
 ### Contributing:
 
