@@ -315,6 +315,10 @@ You can customize the files / folders as needed for your own desired usage. Feel
 **13.11.2024 → day 65 - Web Design School** - Web design principles.
 - Breakdown of the color theory that is applicable when you design Web pages and / or applications.
 
+**14.11.2024 → day 66 - API building with RESTful routing** - API Building with Flask.
+- Contains the requirements to build it, some personal notes, and the DB file that can be used.
+- main.py with logical structure and functionality to be added soon.
+
 
 ### Contributing:
 
