@@ -1,0 +1,16 @@
+# REST = REpresentational
+#        State
+#        Transfer
+
+
+MOST important rules of RESTful API:
+1 - Use HTTP request Verbs
+        -> GET, POST, PUT, PATCH, DELETE
+
+2 - Use specific Patterns or Routes / Endpoint URLs
+        -> refer to RESTful_routing.jpg
+
+
+PUT vs PATCH
+PUT -> replaces an entire item or entry
+PATCH -> replaces specific pieces of data for one entry
