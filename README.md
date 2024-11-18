@@ -319,6 +319,9 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Contains the requirements to build it, some personal notes, and the DB file that can be used.
 - main.py with logical structure and functionality to be added soon.
 
+**18.11.2024 → day 66 - main.py** - Added main.py for day 66 Project.
+- Routes declared are available in the URL; also, some routes are available only by testing with Postman.
+- Pay attention to the DB part that is in charge of saving and adding elements to the database.
 
 ### Contributing:
 
