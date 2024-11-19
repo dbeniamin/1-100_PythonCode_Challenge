@@ -323,6 +323,10 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Routes declared are available in the URL; also, some routes are available only by testing with Postman.
 - Pay attention to the DB part that is in charge of saving and adding elements to the database.
 
+**19.11.2024 → day 67 - Blog Project - RESTful Routing** - Blog project adapted to use a database and RESTful Routing.
+- Contains the requirements to build it, some personal notes, the styling section with HTML and CSS, the image assets and the DB file that can be used.
+- main.py, with logical structure and functionality to be added soon.
+
 ### Contributing:
 
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
