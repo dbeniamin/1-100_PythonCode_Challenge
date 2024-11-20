@@ -327,6 +327,12 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Contains the requirements to build it, some personal notes, the styling section with HTML and CSS, the image assets and the DB file that can be used.
 - main.py, with logical structure and functionality to be added soon.
 
+**20.11.2024 → day 67 - main.py** - Added main.py for day 66 Project.
+- Routes declared and linked to buttons.
+- DB manipulation with example, server setup and implementation, and form handling to submit contact requests and blog posts.
+
+
+
 ### Contributing:
 
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
