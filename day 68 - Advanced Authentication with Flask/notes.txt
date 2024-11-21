@@ -1,0 +1,9 @@
+Level 1 - store the pass in the db - on the server side
+Level 2 - encryption - shuffle the chacters based on a key
+Level 3 - hashing - does not decrypt it backwards - math wizardry that is almost impossible to turn it back
+Level 4 - hashing and salting - add a random set of characters and then apply hashing
+
+register -> type pass -> hashing -> makes the password jiberish -> save to db
+login -> type pass -> hashing -> makes the password jiberish -> compared to the pass alerady saved in db
+
+early encription - Ceasar Cipher => letter substitution cipher based on a shift pattern
