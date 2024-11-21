@@ -331,7 +331,10 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Routes declared and linked to buttons.
 - DB manipulation with example, server setup and implementation, and form handling to submit contact requests and blog posts.
 
-
+**21.11.2024 → day 68 - Advanced Authentication with Flask** - Handling advanced authentication with Flask.
+- Introduction to hashing and salting passwords in a DB.
+- Refer to notes and flow image for additional information and details.
+- main.py, with logical structure and functionality to be added soon.
 
 ### Contributing:
 
