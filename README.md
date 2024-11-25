@@ -327,7 +327,7 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Contains the requirements to build it, some personal notes, the styling section with HTML and CSS, the image assets and the DB file that can be used.
 - main.py, with logical structure and functionality to be added soon.
 
-**20.11.2024 → day 67 - main.py** - Added main.py for day 66 Project.
+**20.11.2024 → day 67 - main.py** - Added main.py for day 67 Project.
 - Routes declared and linked to buttons.
 - DB manipulation with example, server setup and implementation, and form handling to submit contact requests and blog posts.
 
@@ -335,6 +335,12 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Introduction to hashing and salting passwords in a DB.
 - Refer to notes and flow image for additional information and details.
 - main.py, with logical structure and functionality to be added soon.
+
+**25.11.2024 → day 68 - main.py** - Added main.py for day 68 Project.
+- Routes declared, introducing hashing and salting before writing to the DB.
+- DB manipulation with example, server setup and implementation, and form handling to submit contact requests and blog posts.
+- Use your own personal key to run the app.
+
 
 ### Contributing:
 
