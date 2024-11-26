@@ -334,12 +334,16 @@ You can customize the files / folders as needed for your own desired usage. Feel
 **21.11.2024 → day 68 - Advanced Authentication with Flask** - Handling advanced authentication with Flask.
 - Introduction to hashing and salting passwords in a DB.
 - Refer to notes and flow image for additional information and details.
-- main.py, with logical structure and functionality to be added soon.
+- main.py with logical structure and functionality to be added soon.
 
 **25.11.2024 → day 68 - main.py** - Added main.py for day 68 Project.
 - Routes declared, introducing hashing and salting before writing to the DB.
 - DB manipulation with example, server setup and implementation, and form handling to submit contact requests and blog posts.
 - Use your own personal key to run the app.
+
+**21.11.2024 → day 69 - Blog Capstone - Adding Users** - A Blog project that adds users to the database.
+- adding the formatting structure and the layout basses for the project alongside images and other assets.
+- main.py and forms.py with logical structure and functionality to be added soon.
 
 
 ### Contributing:
