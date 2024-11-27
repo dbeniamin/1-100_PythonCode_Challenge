@@ -341,9 +341,12 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - DB manipulation with example, server setup and implementation, and form handling to submit contact requests and blog posts.
 - Use your own personal key to run the app.
 
-**21.11.2024 → day 69 - Blog Capstone - Adding Users** - A Blog project that adds users to the database.
+**26.11.2024 → day 69 - Blog Capstone - Adding Users** - A Blog project that adds users to the database.
 - adding the formatting structure and the layout basses for the project alongside images and other assets.
 - main.py and forms.py with logical structure and functionality to be added soon.
+
+**27.11.2024 → day 68 - forms.py** - Added forms.py for day 69 Project.
+- Class created to handle the forms that are used for the blog, separating the user and the content in different templates. 
 
 
 ### Contributing:
