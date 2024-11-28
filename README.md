@@ -308,7 +308,7 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Cover image model with a DB and details of the movie on the back of the card.
 - Added structure template files with HTML - main.py with logical structure and functionality to be added soon.
 
-**12.11.2024 → day 64 - main.py** - Added main.py for day 64 Project.
+**12.11.2024 →  main.py** - Added main.py for day 64 Project.
 - Make sure you use OS module for the keys or hard-code your keys in the code file.
 - The project is a mix of API calls, search, add to db, buttons and layout using python code.
 
@@ -319,7 +319,7 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Contains the requirements to build it, some personal notes, and the DB file that can be used.
 - main.py with logical structure and functionality to be added soon.
 
-**18.11.2024 → day 66 - main.py** - Added main.py for day 66 Project.
+**18.11.2024 →  main.py** - Added main.py for day 66 Project.
 - Routes declared are available in the URL; also, some routes are available only by testing with Postman.
 - Pay attention to the DB part that is in charge of saving and adding elements to the database.
 
@@ -327,7 +327,7 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Contains the requirements to build it, some personal notes, the styling section with HTML and CSS, the image assets and the DB file that can be used.
 - main.py, with logical structure and functionality to be added soon.
 
-**20.11.2024 → day 67 - main.py** - Added main.py for day 67 Project.
+**20.11.2024 →  main.py** - Added main.py for day 67 Project.
 - Routes declared and linked to buttons.
 - DB manipulation with example, server setup and implementation, and form handling to submit contact requests and blog posts.
 
@@ -336,7 +336,7 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Refer to notes and flow image for additional information and details.
 - main.py with logical structure and functionality to be added soon.
 
-**25.11.2024 → day 68 - main.py** - Added main.py for day 68 Project.
+**25.11.2024 →  main.py** - Added main.py for day 68 Project.
 - Routes declared, introducing hashing and salting before writing to the DB.
 - DB manipulation with example, server setup and implementation, and form handling to submit contact requests and blog posts.
 - Use your own personal key to run the app.
@@ -345,9 +345,12 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - adding the formatting structure and the layout basses for the project alongside images and other assets.
 - main.py and forms.py with logical structure and functionality to be added soon.
 
-**27.11.2024 → day 68 - forms.py** - Added forms.py for day 69 Project.
+**27.11.2024 → forms.py** - Added forms.py for day 69 Project.
 - Class created to handle the forms that are used for the blog, separating the user and the content in different templates. 
 
+**28.11.2024 → main.py** - Added main.py for day 69 Project.
+- Please use your own key for the app.config.
+- contains a TODO structure with routes added and personal comments.
 
 ### Contributing:
 
