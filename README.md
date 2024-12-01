@@ -352,6 +352,11 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Please use your own key for the app.config.
 - contains a TODO structure with routes added and personal comments.
 
+**02.12.2024 → day 70 - Git, Github and Version Control** - Introduction to Version Control.
+- List of notes and commands that will help you move the work from local directory to GitHub repositories.
+
+
+
 ### Contributing:
 
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
