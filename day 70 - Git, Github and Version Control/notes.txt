@@ -1,0 +1,45 @@
+Linux - comes with preinstalled Git
+Windows - install required from "https://git-scm.com/downloads/win"
+
+Version Control
+1st save - first version
+2nd save - second version
+
+BASH COMMANDS
+ls - list files and directories
+ls -a - show all files and folders including the hidden ones
+cd - change directory
+mkdir - make a new directory
+touch - create a file i.e.  touch test.txt - creates the file test.txt
+
+GIT commands
+git init - initialize an empty git repo in the directory that you are => creates a .git hidden folder
+.git folder - will track all changes , commit changes and perform version control
+git status - shows the status of the content in the working dir
+git add test.txt - adds the test.txt file to staging area and ready to commit
+git add . - adds all the files that are not in the staging area
+git checkout test.txt - revert to last position in the local repo of the known file - rolls back the test.txt
+git status - shows any modifications that have not been committed or added to staging
+git diff test.txt - shows the differences that where made in the specified file i.e. test.txt
+git commit -m "Text message" - commits the file / files that are in staging with the desired message
+git log - logs of actions from a working dir
+git ignore - os generated files, user / pass details
+touch .gitignore - create the file
+open the .gitignore and add files / folders that are ignored at commit
+(*.txt - in git ignore - all the .txt files are ignored )
+.DS_Store - saves preferences - do not commit it
+git rm --cached -r . -everthing in the staging is removed
+
+
+Remote repos with GitHub
+use inside the work dir
+git remote add origin https://github.com/username/repo_name.git  -  use the address of the repository on GitHub
+git push -u origin main - pushes the local repo on to the main branch of the GitHub repo
+
+Branch and Merge
+git branch - shows the branch you are in
+git branch name-of-branch - create an alternative branch from the main one with the given name
+git merge name-of-branch  - merges the given name to the main branch
+
+Fork and Pull Requests
+forking a repo makes a personal copy that repo
