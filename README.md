@@ -355,7 +355,8 @@ You can customize the files / folders as needed for your own desired usage. Feel
 **02.12.2024 → day 70 - Git, Github and Version Control** - Introduction to Version Control.
 - List of notes and commands that will help you move the work from local directory to GitHub repositories.
 
-
+**03.12.2024 → day 71 - Deploy the webApp(blog)** - How-to deploy any of your work.
+- List of notes that are used to deploy an app and several hosting options based on your target.
 
 ### Contributing:
 
