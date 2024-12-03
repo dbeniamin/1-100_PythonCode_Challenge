@@ -1,0 +1,47 @@
+Steps to deploy the web app
+
+- create .gitignore with - posts.db, the venv folder, or the hidden PyCharm .idea folder
+- make the requirements.txt - add all the required packages and frameworks
+- make sure the admin user is registered with the correct email and pass
+- git init - enable git, create the new GitPanel
+- add all the unversioned files and commit
+- in the git log the initial commit is visible5
+
+- make sure all sensitive info is stored in the env variables - not hardcoded in the file
+app.config['SECRET_KEY'] = os.environ.get('FLASK_KEY')
+app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get("DB_URI", "sqlite:///posts.db")
+If you are using a working contact form, then make sure you get your email and password via an environment variable as well.
+
+- set app.run(debug=False)
+- setup a WSGI server with gunicorn - add gunicorn to requirements.txt
+- create a new file in the project top-level folder called Procfile. When you create the new file, PyCharm will prompt you to track the new file under git version control. Agree by clicking add.
+****  make sure you spell the name of the file exactly as you see above, with a capital P and no file extension. ****
+
+type the following into the Procfile:
+web: gunicorn main:app
+
+- at this point you made some changes in the main.py with your environment variables and created a new file in the project. Go to the Commit Tool and save your changes under version control.
+
+- go to your PyCharm settings, search "GitHub" and link Pycharm with GitHub.
+- Once you start using git for version control, PyCharm will change the VCS menu to read "Git" instead. Go to Git -> GitHub -> Share project on GitHub. This will push your code to your remote.
+- Pick your repository name (any name will do). And click "Share".
+- on your GitHub account - You should then see your project as a GitHub's website.
+
+move from SQLite to PostgreSQL
+1. Create a new Postgres database from the website menu.
+2. Next, you will see a form. All you need to do is pick a name for the database and create it.
+3. Once you've created your database, go and find the Internal Database URL in the Info section. You might have to wait a little while until your database is created.
+4. Afterward, simply copy this URL. You will shortly use this as an environment variable.
+5. Set your SQLALCHEMY_DATABASE_URI environment variable
+Go back to your web service settings called "environment".  Create an environment variable that matches the name of the key you're using in the main.py.
+6. Paste your internal database URL as the key value. It should look something like this:
+postgres://example_ig2c_user:u0E_lots_of_Symbols_here@dpg-c_more_symbols3bj85d0-a/example_ig2c
+You just need to make one small modification. Change the first part from postgres to postgresql. The URI has to start with "postgresql" because this is required by SQLAlchemy:
+postgresql://example_ig2c_user:u0E_lots_of_Symbols_here@dpg-c_more_symbols3bj85d0-a/example_ig2c
+
+How does all this work? SQLite is pre-installed for all Python projects, but here we are using Postgres. The reason we can seamlessly switch from SQLite to Postgres is because we are using the psycopg package in combination with SQLAlchemy. The psycopg module is an incredibly popular PostgreSQL database adapter for Python. (You can see the psycopg package listed in the requirements.txt.)
+
+Whoo-hoo! Congratulations if you got this far! Your blog should be up and running now. You've got a blank slate so register your first (admin) user and write your first blog post.
+
+
+
