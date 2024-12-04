@@ -358,6 +358,10 @@ You can customize the files / folders as needed for your own desired usage. Feel
 **03.12.2024 → day 71 - Deploy the webApp(blog)** - How-to deploy any of your work.
 - List of notes that are used to deploy an app and several hosting options based on your target.
 
+**04.12.2024 → day 72 - Data Exploration with Pandas** - Explore data handling with pandas.
+- Introduction to data manipulation using Pandas and working with big data CSV files.
+
+
 ### Contributing:
 
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
