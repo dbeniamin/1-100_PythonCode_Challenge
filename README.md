@@ -361,6 +361,10 @@ You can customize the files / folders as needed for your own desired usage. Feel
 **04.12.2024 → day 72 - Data Exploration with Pandas** - Explore data handling with pandas.
 - Introduction to data manipulation using Pandas and working with big data CSV files.
 
+**05.12.2024 → day 73 - Data Vizualization - Mathplotlib** - Data visualization using Matplotlib.
+- Visualization of data that is handled with Pandas.
+- Chart styling based on desired effect, updated for use in PyCharm instead of Jupyter Notebook.
+
 
 ### Contributing:
 
