@@ -365,6 +365,9 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Visualization of data that is handled with Pandas.
 - Chart styling based on desired effect, updated for use in PyCharm instead of Jupyter Notebook.
 
+**10.12.2024 → day 74 - Aggregate and Merge Data in Pandas** - How to combine and summarize datasets using Pandas.
+- Techniques for aggregating data to derive details and merging datasets to create views for analysis.
+- Real-World examples with the included .csv files.
 
 ### Contributing:
 
