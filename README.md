@@ -369,6 +369,12 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Techniques for aggregating data to derive details and merging datasets to create views for analysis.
 - Real-World examples with the included .csv files.
 
+**11.12.2024 → day 75 - Google Trends Data - Resampling and Visualising** - How to combine and visualising datasets.
+- Techniques for sampling data and merging datasets to create views for analysis.
+- Real-World examples with the included .csv files.
+
+
+
 ### Contributing:
 
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
