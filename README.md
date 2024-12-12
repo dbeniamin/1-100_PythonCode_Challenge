@@ -373,7 +373,9 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Techniques for sampling data and merging datasets to create views for analysis.
 - Real-World examples with the included .csv files.
 
-
+**13.12.2024 → day 76 - Plotly Charts and Appstore analysis** - Chart output of sampled data.
+- Techniques for structuring data to create views for analysis and also customize the charts based on the needs of the user.
+- Real-World examples with the included .csv file.
 
 ### Contributing:
 
