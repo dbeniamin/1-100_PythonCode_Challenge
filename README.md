@@ -377,6 +377,11 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Techniques for structuring data to create views for analysis and also customize the charts based on the needs of the user.
 - Real-World examples with the included .csv file.
 
+**29.01.2025 → day 76 - day 77 - NumPy computations** - Computing and analizing data using Numpy.
+- Transforming and analizing data using Numpy.
+- Tranforming photos in to arrays.
+
+
 ### Contributing:
 
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
