@@ -377,9 +377,14 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Techniques for structuring data to create views for analysis and also customize the charts based on the needs of the user.
 - Real-World examples with the included .csv file.
 
-**29.01.2025 → day 76 - day 77 - NumPy computations** - Computing and analizing data using Numpy.
+**29.01.2025 → day 77 - NumPy computations** - Computing and analizing data using Numpy.
 - Transforming and analizing data using Numpy.
 - Tranforming photos in to arrays.
+
+**29.01.2025 → day 78 - Linear regression and Data Visualization** - Agreggating data, creating Linear regressions to calculate projections.
+- Cleaning the data, converting data types to usable Pandas Datetime.
+- Filtering based on multiple conditions, data visualization with Seaborn.
+
 
 
 ### Contributing:
