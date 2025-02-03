@@ -385,7 +385,9 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Cleaning the data, converting data types to usable Pandas Datetime.
 - Filtering based on multiple conditions, data visualization with Seaborn.
 
-
+**03.02.2025 → day 79 - Analysing with Plotly, Matplotlib and Seaborn** - Analyzing and cleaning data, creating charts to observe filtering.
+- Sunburst chart with regional data breakdown.
+- Observing patterns in the given data sheet.
 
 ### Contributing:
 
