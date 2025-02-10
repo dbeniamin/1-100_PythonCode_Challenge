@@ -389,6 +389,12 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Sunburst chart with regional data breakdown.
 - Observing patterns in the given data sheet.
 
+**10.02.2025 → day 80 - t-Tests & Distributions** - Analyzing data, creating charts to observe trends.
+- Analysing the yearly data split by point of instrest in the main data set.
+- Visualising distributions and testing for statistical significance.
+
+
+
 ### Contributing:
 
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
