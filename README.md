@@ -393,6 +393,9 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Analysing the yearly data split by point of instrest in the main data set.
 - Visualising distributions and testing for statistical significance.
 
+**11.02.2025 → day 81 - Capstone Project - Predict House Prices** - Analyzing and filtering data, creating predictions based on observed trends.
+- Split data set in several charts to observe trends.
+- Setting a training data set and analyse the astimated values.
 
 
 ### Contributing:
