@@ -143,8 +143,7 @@ You can customize the files / folders as needed for your own desired usage. Feel
 - Using the basic app design the user can also add sound notifications.
 
 **14.03.2024 → day 25 - Romania County Game**  - Contains guess the county app made specifically for Romania.
-- The folder has 2 .py files one is a course specific and another one is the Romania County Game.
-- Has additionally included a high score file and a timer that is visible to the player while also counting down.
+- Leverages turtle to fill in the county guessed by the user.
 
 **18.03.2024 → day 29 - Password Manager**  - Pass Manager is an app made to store various details.
 - GUI app that helps keep track of passwords, usernames, and websites.
